@@ -12,7 +12,8 @@
       "modular",
       "defense",
       "secure",
-      "external"
+      "external",
+      "settings"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -86,6 +87,12 @@
         "code": "R13",
         "title": "External playtest and revision",
         "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+      },
+      {
+        "id": "settings",
+        "code": "R04",
+        "title": "Settings that persist",
+        "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
       }
     ],
     "tasks": [],
