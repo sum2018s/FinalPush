@@ -10,7 +10,9 @@
     "selected": [
       "save",
       "modular",
-      "defense"
+      "defense",
+      "secure",
+      "external"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -72,6 +74,18 @@
         "code": "R14",
         "title": "Architecture defense and maintenance guide",
         "evidence": "Individually explain unfamiliar code sections, trace data flow and make a small requested change."
+      },
+      {
+        "id": "secure",
+        "code": "R11",
+        "title": "Secure input and data handling",
+        "evidence": "Document threats relevant to the project and test validation, safe error handling and protection of private data."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
       }
     ],
     "tasks": [],
