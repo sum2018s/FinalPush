@@ -109,8 +109,8 @@
     "dailyDraft": {
       "meeting": "CS110-2026-11-17",
       "worked": "Today we mainly focused on the switch from game to mobile app. We brainstormed on ideas how to give people everyday tasks to get them out of their comfort zone.",
-      "next": "We will most likely work on the coding or maybe even",
-      "blocker": "",
+      "next": "We will most likely work on the coding or maybe even brainstorming more ideas on how to get people out there.",
+      "blocker": "Our prior inexperience to this is definitely playing a huge role in blocking us from our goal but we are sure going to overcome it.",
       "evidence": ""
     },
     "requirements": [
@@ -183,7 +183,24 @@
         ]
       }
     ],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "Today we mainly focused on the switch from game to mobile app. We brainstormed on ideas how to give people everyday tasks to get them out of their comfort zone.",
+        "next": "We will most likely work on the coding or maybe even brainstorming more ideas on how to get people out there.",
+        "blocker": "Our prior inexperience to this is definitely playing a huge role in blocking us from our goal but we are sure going to overcome it.",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Create & Develop",
+            "due": "2026-12-18T15:14",
+            "done": false,
+            "result": ""
+          }
+        ]
+      }
+    ]
   },
   "team": {
     "name": "DUFF - Do the Unknown Frequently , Fearlessly",
