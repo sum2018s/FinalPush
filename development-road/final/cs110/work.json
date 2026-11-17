@@ -3,8 +3,9 @@
   "course": "CS110",
   "name": "Jesse Sanchez Marquez",
   "work": {
-    "project": "A story worth playing",
-    "path": "story",
+    "project": "DUFF Survival",
+    "projectDescription": "2-D, wave-based game built around team survival against the attacking foe.",
+    "path": "arcade",
     "selected": [
       "save"
     ],
@@ -18,6 +19,11 @@
     "service": "",
     "role": "Developer",
     "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "personalBoard": {
       "nodes": [],
       "edges": [],
       "strokes": []
