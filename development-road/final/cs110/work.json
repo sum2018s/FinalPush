@@ -4,9 +4,9 @@
   "course": "CS110",
   "name": "Jesse Sanchez Marquez",
   "work": {
-    "project": "A story worth playing",
-    "projectDescription": "2-D, wave-based game built around team survival against the attacking foe.",
-    "path": "story",
+    "project": "DUFF",
+    "projectDescription": ">Do the Uncomfortable Frequently, Fearlessly\nMedia page about helping people step outside their comfort zone (website)\n\n(Phone App) - Main premise\n\"Mini game\" giving users small tasks that urge them to step out of their comfortability",
+    "path": "desktop",
     "selected": [
       "save"
     ],
@@ -63,7 +63,26 @@
     "tasks": [],
     "dailyNotes": []
   },
-  "team": null,
-  "sharedPlan": null,
+  "team": {
+    "name": "DUFF - Do the Unknown Frequently , Fearlessly",
+    "mode": "team",
+    "project": "DUFF",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "David Lopez",
+        "role": "Developer / Lead"
+      },
+      {
+        "name": "Jesse Sanchez Marquez",
+        "role": "Developer"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
   "completedReports": []
 }
