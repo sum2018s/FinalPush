@@ -89,20 +89,97 @@
     "personalBoard": {
       "nodes": [
         {
-          "id": "35f0c92f-550a-453f-8ba6-c800f2456270",
+          "id": "41d7d982-5186-44d6-ba8c-b2088ebbd2e1",
           "kind": "box",
-          "x": 73.4563314425485,
-          "y": 36.10356039878576,
+          "x": 0,
+          "y": 165.60717135832272,
+          "w": 172.94127049617242,
+          "h": 73.8843551501244,
+          "text": "Goal: Make mobile app",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "f8ded96f-e2d1-4244-b79f-332306422544",
+          "kind": "box",
+          "x": 210,
+          "y": 170,
           "w": 150,
           "h": 70,
-          "text": "Name this block",
+          "text": "Inputs: code + assets",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "b4c04771-da06-4844-a3ee-e0ddfd5f5556",
+          "kind": "box",
+          "x": 400,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Build: social interations",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "d326d99b-e513-4e23-8b98-41a41d90ce2c",
+          "kind": "box",
+          "x": 588.242868543329,
+          "y": 170.8785657283354,
+          "w": 150,
+          "h": 70,
+          "text": "Test: expected behavior",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "84696cdb-3c0e-45e2-be1e-6a3ce033524d",
+          "kind": "box",
+          "x": 780,
+          "y": 170,
+          "w": 150,
+          "h": 70,
+          "text": "Deliver: source + evidence",
           "owner": "",
           "due": "",
           "description": ""
         }
       ],
-      "edges": [],
-      "strokes": []
+      "edges": [
+        {
+          "from": "41d7d982-5186-44d6-ba8c-b2088ebbd2e1",
+          "to": "f8ded96f-e2d1-4244-b79f-332306422544"
+        },
+        {
+          "from": "f8ded96f-e2d1-4244-b79f-332306422544",
+          "to": "b4c04771-da06-4844-a3ee-e0ddfd5f5556"
+        },
+        {
+          "from": "b4c04771-da06-4844-a3ee-e0ddfd5f5556",
+          "to": "d326d99b-e513-4e23-8b98-41a41d90ce2c"
+        },
+        {
+          "from": "d326d99b-e513-4e23-8b98-41a41d90ce2c",
+          "to": "84696cdb-3c0e-45e2-be1e-6a3ce033524d"
+        }
+      ],
+      "strokes": [
+        {
+          "id": "101ad834-f3f9-44a1-ac6c-1ddd871ca480",
+          "color": "#25535e",
+          "width": 3,
+          "points": [
+            [
+              72.577765714213,
+              20.28937728874729
+            ]
+          ]
+        }
+      ]
     },
     "huddle": {
       "stage": 2,
@@ -216,7 +293,7 @@
     ]
   },
   "team": {
-    "name": "DUFF - Do the Unknown Frequently , Fearlessly",
+    "name": "DUFF - Do the Uncomfortable Frequently, Fearlessly",
     "mode": "team",
     "project": "DUFF",
     "projectRepo": "",
