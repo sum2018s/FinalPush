@@ -87,7 +87,20 @@
       "strokes": []
     },
     "personalBoard": {
-      "nodes": [],
+      "nodes": [
+        {
+          "id": "35f0c92f-550a-453f-8ba6-c800f2456270",
+          "kind": "box",
+          "x": 73.4563314425485,
+          "y": 36.10356039878576,
+          "w": 150,
+          "h": 70,
+          "text": "Name this block",
+          "owner": "",
+          "due": "",
+          "description": ""
+        }
+      ],
       "edges": [],
       "strokes": []
     },
