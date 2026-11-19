@@ -199,8 +199,8 @@
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
       "worked": "Today I had spoke with ChatGPT regarding our idea and how we can be as original as possible. I had gathered some info from chat and had written on the whiteboard what our app may look like including certain categories that our user may be able to navigate through and master as they complete tasks in intended categories. Also had the idea to have a system that allows you to submit a report about how you completed the task aswell as how you went about it and also having an AI response waiting to congratulate the user and give feedback on what they could improve on.",
-      "next": "During the break I am",
-      "blocker": "",
+      "next": "During the break I am thinking of watching videos of how people have made mobile applications though Visual Studios and study what they may have done differently from making a website or game.",
+      "blocker": "Our prior experience with the making of a mobile application will play a role in blocking us but we will watch videos over the break to overcome this wall.",
       "evidence": ""
     },
     "requirements": [
@@ -280,6 +280,22 @@
         "worked": "Today we mainly focused on the switch from game to mobile app. We brainstormed on ideas how to give people everyday tasks to get them out of their comfort zone.",
         "next": "We will most likely work on the coding or maybe even brainstorming more ideas on how to get people out there.",
         "blocker": "Our prior inexperience to this is definitely playing a huge role in blocking us from our goal but we are sure going to overcome it.",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Create & Develop",
+            "due": "2026-12-18T15:14",
+            "done": false,
+            "result": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "Today I had spoke with ChatGPT regarding our idea and how we can be as original as possible. I had gathered some info from chat and had written on the whiteboard what our app may look like including certain categories that our user may be able to navigate through and master as they complete tasks in intended categories. Also had the idea to have a system that allows you to submit a report about how you completed the task aswell as how you went about it and also having an AI response waiting to congratulate the user and give feedback on what they could improve on.",
+        "next": "During the break I am thinking of watching videos of how people have made mobile applications though Visual Studios and study what they may have done differently from making a website or game.",
+        "blocker": "Our prior experience with the making of a mobile application will play a role in blocking us but we will watch videos over the break to overcome this wall.",
         "evidence": "",
         "tasks": [
           {
